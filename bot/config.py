@@ -3,8 +3,8 @@ from os import environ as env
 class Telegram:
     API_ID = int(env.get("28136820", ""))
     API_HASH = env.get("20eb6e8833f0d5c89e2e7a784b2693bc", "")
-    BOT_TOKEN = env.get("7722662123:AAGfvuz0Hcs4Cln2mUsw-o9BXIo-R3t0ADk", "")
-    BOT_USERNAME = env.get("reacttomypostbot", "ReactGenieBot")
+    BOT_TOKEN = env.get("7712627407:AAEM9glTY6AwP1gzNT2y_m_BIPEro5WfI8M", "")
+    BOT_USERNAME = env.get("Oasis_Like_1_bot", "")
     EMOJIS = [
         "👍", "👎", "❤", "🔥", 
         "🥰", "👏", "😁", "🤔",
